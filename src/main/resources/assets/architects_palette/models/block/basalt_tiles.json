@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "architects_palette:blocks/basalt_tiles",
+    "particle": "architects_palette:blocks/basalt_tiles"
+  }
+}

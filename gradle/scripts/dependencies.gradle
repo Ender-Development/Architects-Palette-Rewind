@@ -4,28 +4,31 @@ repositories {
     // Other repositories described by default:
     // CleanroomMC: https://maven.cleanroommc.com
     exclusiveContent {
-        forRepository {
-            maven {
-                name 'CurseMaven'
-                url 'https://cursemaven.com'
-            }
-        }
-        filter {
-            includeGroup 'curse.maven'
-        }
-    }
-    exclusiveContent {
-        forRepository {
-            maven {
-                name 'Modrinth'
-                url 'https://api.modrinth.com/maven'
-            }
-        }
-        filter {
-            includeGroup 'maven.modrinth'
-        }
-    }
-    mavenLocal() // Must be last for caching to work
+		forRepository {
+			maven {
+				name 'CurseMaven'
+				url 'https://curse.cleanroommc.com'
+			}
+		}
+		filter {
+			includeGroup 'curse.maven'
+		}
+	}
+	exclusiveContent {
+		forRepository {
+			maven {
+				name 'Modrinth'
+				url 'https://api.modrinth.com/maven'
+			}
+		}
+		filter {
+			includeGroup 'maven.modrinth'
+		}
+	}
+	maven {
+		url = 'https://maven.blamejared.com/'
+	}
+	mavenLocal() // Must be last for caching to work
 }
 
 dependencies {
@@ -65,4 +68,31 @@ dependencies {
     // implementation ('com.google.code.gson:gson:2.8.6') {
     //     transitive = false
     // }
+
+	runtimeOnly "com.cleanroommc:configanytime:3.0"
+    runtimeOnly rfg.deobf("curse.maven:lolasm-460609:6333774") // otherwise it will crash
+	runtimeOnly rfg.deobf("curse.maven:vintagefix-871198:6300725") // otherwise it will crash
+	runtimeOnly rfg.deobf("curse.maven:modern-splash-629058:5282442") // otherwise it will crash
+
+	runtimeOnly "curse.maven:red-core-873867:6230904"
+	runtimeOnly "curse.maven:alfheim-lighting-engine-910715:6295028"
+	runtimeOnly "curse.maven:valkyrie-874067:6377168"
+
+	// CraftTweaker
+	implementation "CraftTweaker2:CraftTweaker2-API:4.1.20.698"
+	implementation "CraftTweaker2:ZenScript:4.1.20.698"
+	implementation "CraftTweaker2:CraftTweaker2-MC1120-Main:1.12-4.1.20.698"
+
+	// GroovyScript
+	implementation("com.cleanroommc:groovyscript:" + project.groovyscript_version) { transitive = false }
+
+    // HEI
+	implementation "mezz:jei:4.27.3"
+
+    // The One Probe
+	implementation rfg.deobf("curse.maven:the-one-probe-community-edition-885670:6280353")
+	implementation rfg.deobf("curse.maven:topalldependents-1120632:6310644")
+
+    // CTM
+	runtimeOnly "curse.maven:ctm-267602:2915363"
 }

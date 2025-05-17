@@ -1,0 +1,6 @@
+{
+  "variants":
+  {
+    "variant=default": { "model": "architects_palette:algal_bricks" }
+  }
+}

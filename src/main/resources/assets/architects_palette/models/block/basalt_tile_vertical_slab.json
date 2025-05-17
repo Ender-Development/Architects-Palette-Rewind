@@ -1,0 +1,8 @@
+{
+  "parent": "architects_palette:block/vertical_slab",
+  "textures": {
+    "all": "architects_palette:blocks/basalt_tiles",
+    "particle": "architects_palette:blocks/basalt_tiles",
+    "0": "architects_palette:blocks/basalt_tiles"
+  }
+}

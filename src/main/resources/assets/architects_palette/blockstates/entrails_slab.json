@@ -1,0 +1,7 @@
+{
+  "variants":
+  {
+    "half=bottom,variant=default": { "model": "architects_palette:entrails_slab" },
+    "half=top,variant=default": { "model": "architects_palette:entrails_slab_top" }
+  }
+}

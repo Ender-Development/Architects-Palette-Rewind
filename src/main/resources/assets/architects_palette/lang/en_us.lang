@@ -1,0 +1,302 @@
+itemGroup.architects_palette=Architect's Palette
+
+subtitles.architects_palette.warping.item_warps.name=Item Warps
+subtitles.architects_palette.cage_lantern.toggle_on.name=Cage Lantern Toggled
+subtitles.architects_palette.cage_lantern.toggle_off.name=Cage Lantern Toggled
+
+architects_palette.misc.no_quark.name=Requires the Quark Mod installed
+
+architects_palette.advancement.root.name=Architect's Palette
+architects_palette.advancement.root.desc.name=Time to build with something new.
+architects_palette.advancement.totem_carving.name=Wipe that Grin off Your Face
+architects_palette.advancement.totem_carving.desc.name=Carve one Acacia Totem into another using an axe.
+architects_palette.advancement.buy_fish_block.name=What a Catch!
+architects_palette.advancement.buy_fish_block.desc.name=Trade with a Fisherman for a cut of fine fish.
+architects_palette.advancement.buy_pipe.name=Local Plumber
+architects_palette.advancement.buy_pipe.desc.name=Buy some Pipe blocks off of a Toolsmith.
+architects_palette.advancement.buy_entrails.name=Finely Butchered
+architects_palette.advancement.buy_entrails.desc.name=Trade your precious Emeralds for a... block of guts?
+architects_palette.advancement.place_entrails.name=Somehow Worse than Imagined
+architects_palette.advancement.place_entrails.desc.name=Place down and gaze upon your newly purchased Entrails.
+architects_palette.advancement.buy_plating.name=Thick Steel
+architects_palette.advancement.buy_plating.desc.name=Trade with an Armorer for some of their Plating.
+architects_palette.advancement.buy_spool.name=Buying in Bulk
+architects_palette.advancement.buy_spool.desc.name=Buy a Spool of a Shepherd's wool. Or, you know, craft one.
+architects_palette.advancement.buy_celestial_stone.name=Wanna Buy a Watch?
+architects_palette.advancement.buy_celestial_stone.desc.name=Purchase some Sunstone or Moonstone off of the Wandering Trader.
+architects_palette.advancement.find_warpstone.name=What is this stuff?
+architects_palette.advancement.find_warpstone.desc.name=Throw a Clay block through a Nether portal and find something else on the other side.
+architects_palette.advancement.find_twisted_sapling.name=A Real Twist on Things
+architects_palette.advancement.find_twisted_sapling.desc.name=Get a Twisted Sapling by warping an ordinary Sapling.
+
+tile.architects_palette.abyssaline.name=Abyssaline
+tile.architects_palette.abyssaline_bricks.name=Abyssaline Bricks
+tile.architects_palette.chiseled_abyssaline_bricks.name=Chiseled Abyssaline Bricks
+tile.architects_palette.abyssaline_pillar.name=Abyssaline Pillar
+tile.architects_palette.abyssaline_brick_stairs.name=Abyssaline Brick Stairs
+tile.architects_palette.abyssaline_brick_slab.name=Abyssaline Brick Slab
+tile.architects_palette.abyssaline_brick_vertical_slab.name=Abyssaline Brick Vertical Slab
+tile.architects_palette.abyssaline_brick_wall.name=Abyssaline Brick Wall
+tile.architects_palette.abyssaline_tiles.name=Abyssaline Tiles
+tile.architects_palette.abyssaline_tile_stairs.name=Abyssaline Tile Stairs
+tile.architects_palette.abyssaline_tile_slab.name=Abyssaline Tile Slab
+tile.architects_palette.abyssaline_tile_vertical_slab.name=Abyssaline Tile Vertical Slab
+tile.architects_palette.abyssaline_lamp.name=Abyssaline Lamp
+
+tile.architects_palette.salmon_log.name=Cut of Salmon
+tile.architects_palette.cod_log.name=Cut of Cod
+tile.architects_palette.salmon_scales.name=Salmon Scales
+tile.architects_palette.cod_scales.name=Cod Scales
+
+tile.architects_palette.entrails.name=Entrails
+tile.architects_palette.plating_block.name=Plating Block
+tile.architects_palette.plating_wall.name=Plating Wall
+tile.architects_palette.plating_stairs.name=Plating Stairs
+tile.architects_palette.plating_slab.name=Plating Slab
+tile.architects_palette.plating_vertical_slab.name=Plating Vertical Slab
+tile.architects_palette.pipe.name=Pipe
+tile.architects_palette.spool.name=Spool
+
+tile.architects_palette.charcoal_block.name=Charcoal Block
+
+tile.architects_palette.limestone.name=Limestone
+tile.architects_palette.limestone_bricks.name=Limestone Bricks
+tile.architects_palette.mushy_limestone_bricks.name=Mushy Limestone Bricks
+tile.architects_palette.limestone_wall.name=Limestone Wall
+tile.architects_palette.limestone_slab.name=Limestone Slab
+tile.architects_palette.limestone_vertical_slab.name=Limestone Vertical Slab
+tile.architects_palette.limestone_stairs.name=Limestone Stairs
+tile.architects_palette.limestone_brick_wall.name=Limestone Brick Wall
+tile.architects_palette.limestone_brick_slab.name=Limestone Brick Slab
+tile.architects_palette.limestone_brick_vertical_slab.name=Limestone Brick Vertical Slab
+tile.architects_palette.limestone_brick_stairs.name=Limestone Brick Stairs
+tile.architects_palette.mushy_limestone_brick_wall.name=Mushy Limestone Brick Wall
+tile.architects_palette.mushy_limestone_brick_slab.name=Mushy Limestone Brick Slab
+tile.architects_palette.mushy_limestone_brick_vertical_slab.name=Mushy Limestone Brick Vertical Slab
+tile.architects_palette.mushy_limestone_brick_stairs.name=Mushy Limestone Brick Stairs
+
+tile.architects_palette.olivestone_bricks.name=Olivestone Bricks
+tile.architects_palette.cracked_olivestone_bricks.name=Cracked Olivestone Bricks
+tile.architects_palette.olivestone_tiles.name=Olivestone Tiles
+tile.architects_palette.cracked_olivestone_tiles.name=Cracked Olivestone Tiles
+tile.architects_palette.olivestone_pillar.name=Olivestone Pillar
+tile.architects_palette.olivestone_brick_wall.name=Olivestone Brick Wall
+tile.architects_palette.olivestone_brick_slab.name=Olivestone Brick Slab
+tile.architects_palette.olivestone_brick_vertical_slab.name=Olivestone Brick Vertical Slab
+tile.architects_palette.olivestone_brick_stairs.name=Olivestone Brick Stairs
+tile.architects_palette.olivestone_tile_wall.name=Olivestone Tile Wall
+tile.architects_palette.olivestone_tile_slab.name=Olivestone Tile Slab
+tile.architects_palette.olivestone_tile_vertical_slab.name=Olivestone Tile Vertical Slab
+tile.architects_palette.olivestone_tile_stairs.name=Olivestone Tile Stairs
+tile.architects_palette.illuminated_olivestone.name=Illuminated Olivestone
+tile.architects_palette.chiseled_olivestone.name=Chiseled Olivestone
+
+tile.architects_palette.algal_bricks.name=Algal Bricks
+tile.architects_palette.cracked_algal_bricks.name=Cracked Algal Bricks
+tile.architects_palette.overgrown_algal_bricks.name=Overgrown Algal Bricks
+tile.architects_palette.chiseled_algal_bricks.name=Chiseled Algal Bricks
+tile.architects_palette.algal_brick_wall.name=Algal Brick Wall
+tile.architects_palette.algal_brick_slab.name=Algal Brick Slab
+tile.architects_palette.algal_brick_vertical_slab.name=Algal Brick Vertical Slab
+tile.architects_palette.algal_brick_stairs.name=Algal Brick Stairs
+tile.architects_palette.overgrown_algal_brick_wall.name=Overgrown Algal Brick Wall
+tile.architects_palette.overgrown_algal_brick_slab.name=Overgrown Algal Brick Slab
+tile.architects_palette.overgrown_algal_brick_vertical_slab.name=Overgrown Algal Brick Vertical Slab
+tile.architects_palette.overgrown_algal_brick_stairs.name=Overgrown Algal Brick Stairs
+tile.architects_palette.algal_lamp.name=Algal Lantern
+item.architects_palette.algal_brick.name=Algal Brick
+item.architects_palette.algal_blend.name=Algal Blend
+
+tile.architects_palette.coal_ore_bricks.name=Coal Ore Bricks
+tile.architects_palette.cracked_coal_ore_bricks.name=Cracked Coal Ore Bricks
+tile.architects_palette.chiseled_coal_ore_bricks.name=Chiseled Coal Ore Bricks
+tile.architects_palette.coal_ore_brick_wall.name=Coal Ore Brick Wall
+tile.architects_palette.coal_ore_brick_slab.name=Coal Ore Brick Slab
+tile.architects_palette.coal_ore_brick_vertical_slab.name=Coal Ore Brick Vertical Slab
+tile.architects_palette.coal_ore_brick_stairs.name=Coal Ore Brick Stairs
+
+tile.architects_palette.lapis_ore_bricks.name=Lapis Ore Bricks
+tile.architects_palette.cracked_lapis_ore_bricks.name=Cracked Lapis Ore Bricks
+tile.architects_palette.chiseled_lapis_ore_bricks.name=Chiseled Lapis Ore Bricks
+tile.architects_palette.lapis_ore_brick_wall.name=Lapis Ore Brick Wall
+tile.architects_palette.lapis_ore_brick_slab.name=Lapis Ore Brick Slab
+tile.architects_palette.lapis_ore_brick_vertical_slab.name=Lapis Ore Brick Vertical Slab
+tile.architects_palette.lapis_ore_brick_stairs.name=Lapis Ore Brick Stairs
+
+tile.architects_palette.redstone_ore_bricks.name=Redstone Ore Bricks
+tile.architects_palette.cracked_redstone_ore_bricks.name=Cracked Redstone Ore Bricks
+tile.architects_palette.chiseled_redstone_ore_bricks.name=Chiseled Redstone Ore Bricks
+tile.architects_palette.redstone_ore_brick_wall.name=Redstone Ore Brick Wall
+tile.architects_palette.redstone_ore_brick_slab.name=Redstone Ore Brick Slab
+tile.architects_palette.redstone_ore_brick_vertical_slab.name=Redstone Ore Brick Vertical Slab
+tile.architects_palette.redstone_ore_brick_stairs.name=Redstone Ore Brick Stairs
+
+tile.architects_palette.iron_ore_bricks.name=Iron Ore Bricks
+tile.architects_palette.cracked_iron_ore_bricks.name=Cracked Iron Ore Bricks
+tile.architects_palette.chiseled_iron_ore_bricks.name=Chiseled Iron Ore Bricks
+tile.architects_palette.iron_ore_brick_wall.name=Iron Ore Brick Wall
+tile.architects_palette.iron_ore_brick_slab.name=Iron Ore Brick Slab
+tile.architects_palette.iron_ore_brick_vertical_slab.name=Iron Ore Brick Vertical Slab
+tile.architects_palette.iron_ore_brick_stairs.name=Iron Ore Brick Stairs
+
+tile.architects_palette.gold_ore_bricks.name=Gold Ore Bricks
+tile.architects_palette.cracked_gold_ore_bricks.name=Cracked Gold Ore Bricks
+tile.architects_palette.chiseled_gold_ore_bricks.name=Chiseled Gold Ore Bricks
+tile.architects_palette.gold_ore_brick_wall.name=Gold Ore Brick Wall
+tile.architects_palette.gold_ore_brick_slab.name=Gold Ore Brick Slab
+tile.architects_palette.gold_ore_brick_vertical_slab.name=Gold Ore Brick Vertical Slab
+tile.architects_palette.gold_ore_brick_stairs.name=Gold Ore Brick Stairs
+
+tile.architects_palette.emerald_ore_bricks.name=Emerald Ore Bricks
+tile.architects_palette.cracked_emerald_ore_bricks.name=Cracked Emerald Ore Bricks
+tile.architects_palette.chiseled_emerald_ore_bricks.name=Chiseled Emerald Ore Bricks
+tile.architects_palette.emerald_ore_brick_wall.name=Emerald Ore Brick Wall
+tile.architects_palette.emerald_ore_brick_slab.name=Emerald Ore Brick Slab
+tile.architects_palette.emerald_ore_brick_vertical_slab.name=Emerald Ore Brick Vertical Slab
+tile.architects_palette.emerald_ore_brick_stairs.name=Emerald Ore Brick Stairs
+
+tile.architects_palette.diamond_ore_bricks.name=Diamond Ore Bricks
+tile.architects_palette.cracked_diamond_ore_bricks.name=Cracked Diamond Ore Bricks
+tile.architects_palette.chiseled_diamond_ore_bricks.name=Chiseled Diamond Ore Bricks
+tile.architects_palette.diamond_ore_brick_wall.name=Diamond Ore Brick Wall
+tile.architects_palette.diamond_ore_brick_slab.name=Diamond Ore Brick Slab
+tile.architects_palette.diamond_ore_brick_vertical_slab.name=Diamond Ore Brick Vertical Slab
+tile.architects_palette.diamond_ore_brick_stairs.name=Diamond Ore Brick Stairs
+
+tile.architects_palette.flint_block.name=Flint Block
+tile.architects_palette.flint_tiles.name=Flint Tiles
+tile.architects_palette.flint_tile_wall.name=Flint Tile Wall
+tile.architects_palette.flint_tile_slab.name=Flint Tile Slab
+tile.architects_palette.flint_tile_vertical_slab.name=Flint Tile Vertical Slab
+tile.architects_palette.flint_tile_stairs.name=Flint Tile Stairs
+tile.architects_palette.flint_pillar.name=Flint Pillar
+
+tile.architects_palette.polished_packed_ice.name=Polished Packed Ice
+tile.architects_palette.chiseled_packed_ice.name=Chiseled Packed Ice
+tile.architects_palette.packed_ice_pillar.name=Packed Ice Pillar
+tile.architects_palette.polished_packed_ice_stairs.name=Polished Packed Ice Stairs
+tile.architects_palette.polished_packed_ice_slab.name=Polished Packed Ice Slab
+tile.architects_palette.polished_packed_ice_vertical_slab.name=Polished Packed Ice Vertical Slab
+tile.architects_palette.polished_packed_ice_wall.name=Polished Packed Ice Wall
+
+tile.architects_palette.sunmetal_block.name=Sunmetal Block
+tile.architects_palette.chiseled_sunmetal_block.name=Chiseled Sunmetal Block
+tile.architects_palette.sunmetal_pillar.name=Sunmetal Pillar
+tile.architects_palette.sunmetal_slab.name=Sunmetal Slab
+tile.architects_palette.sunmetal_vertical_slab.name=Sunmetal Vertical Slab
+tile.architects_palette.sunmetal_stairs.name=Sunmetal Stairs
+tile.architects_palette.sunmetal_bars.name=Sunmetal Bars
+item.architects_palette.sunmetal_brick.name=Sunmetal Brick
+item.architects_palette.sunmetal_blend.name=Sunmetal Blend
+
+tile.architects_palette.osseous_bricks.name=Osseous Bricks
+tile.architects_palette.osseous_pillar.name=Osseous Pillar
+tile.architects_palette.osseous_brick_wall.name=Osseous Brick Wall
+tile.architects_palette.osseous_brick_stairs.name=Osseous Brick Stairs
+tile.architects_palette.osseous_brick_slab.name=Osseous Brick Slab
+tile.architects_palette.osseous_brick_vertical_slab.name=Osseous Brick Vertical Slab
+
+tile.architects_palette.withered_osseous_bricks.name=Withered Osseous Bricks
+tile.architects_palette.withered_osseous_pillar.name=Withered Osseous Pillar
+tile.architects_palette.withered_bone_block.name=Withered Bone Block
+tile.architects_palette.withered_osseous_brick_wall.name=Withered Osseous Brick Wall
+tile.architects_palette.withered_osseous_brick_stairs.name=Withered Osseous Brick Stairs
+tile.architects_palette.withered_osseous_brick_slab.name=Withered Osseous Brick Slab
+tile.architects_palette.withered_osseous_brick_vertical_slab.name=Withered Osseous Brick Vertical Slab
+tile.architects_palette.wither_lamp.name=Wither Lamp
+item.architects_palette.withered_bone.name=Withered Bone
+
+tile.architects_palette.entwine_block.name=Entwine
+tile.architects_palette.chiseled_entwine.name=Chiseled Entwine
+tile.architects_palette.entwine_pillar.name=Entwine Pillar
+tile.architects_palette.entwine_bars.name=Entwine Bars
+tile.architects_palette.entwine_slab.name=Entwine Slab
+tile.architects_palette.entwine_vertical_slab.name=Entwine Vertical Slab
+tile.architects_palette.entwine_stairs.name=Entwine Stairs
+item.architects_palette.entwine_rod.name=Entwine Rod
+
+tile.architects_palette.heavy_stone_bricks.name=Heavy Stone Bricks
+tile.architects_palette.heavy_mossy_stone_bricks.name=Heavy Mossy Stone Bricks
+tile.architects_palette.heavy_cracked_stone_bricks.name=Heavy Cracked Stone Bricks
+
+tile.architects_palette.polished_glowstone.name=Polished Glowstone
+tile.architects_palette.polished_glowstone_slab.name=Polished Glowstone Slab
+tile.architects_palette.polished_glowstone_vertical_slab.name=Polished Glowstone Vertical Slab
+tile.architects_palette.runic_glowstone.name=Runic Glowstone
+
+tile.architects_palette.scute_block.name=Scute Block
+
+tile.architects_palette.gilded_sandstone.name=Gilded Sandstone
+tile.architects_palette.chiseled_gilded_sandstone.name=Chiseled Gilded Sandstone
+tile.architects_palette.gilded_sandstone_pillar.name=Gilded Sandstone Pillar
+tile.architects_palette.gilded_sandstone_slab.name=Gilded Sandstone Slab
+tile.architects_palette.gilded_sandstone_vertical_slab.name=Gilded Sandstone Vertical Slab
+tile.architects_palette.gilded_sandstone_stairs.name=Gilded Sandstone Stairs
+
+tile.architects_palette.weeping_blackstone.name=Weeping Blackstone
+tile.architects_palette.weeping_blackstone_bricks.name=Weeping Blackstone Bricks
+tile.architects_palette.twisting_blackstone.name=Twisting Blackstone
+tile.architects_palette.twisting_blackstone_bricks.name=Twisting Blackstone Bricks
+
+tile.architects_palette.rotten_flesh_block.name=Rotten Flesh Block
+
+tile.architects_palette.warpstone.name=Warpstone
+tile.architects_palette.warpstone_wall.name=Warpstone Wall
+tile.architects_palette.warpstone_stairs.name=Warpstone Stairs
+tile.architects_palette.warpstone_slab.name=Warpstone Slab
+tile.architects_palette.warpstone_vertical_slab.name=Warpstone Vertical Slab
+
+tile.architects_palette.choral_end_stone_bricks.name=Choral End Stone Bricks
+tile.architects_palette.cracked_end_stone_bricks.name=Cracked End Stone Bricks
+tile.architects_palette.chiseled_end_stone_bricks.name=Chiseled End Stone Bricks
+
+tile.architects_palette.twisted_log.name=Twisted Log
+tile.architects_palette.stripped_twisted_log.name=Stripped Twisted Log
+tile.architects_palette.twisted_wood.name=Twisted Wood
+tile.architects_palette.stripped_twisted_wood.name=Stripped Twisted Wood
+tile.architects_palette.twisted_planks.name=Twisted Planks
+tile.architects_palette.twisted_fence.name=Twisted Fence
+tile.architects_palette.twisted_fence_gate.name=Twisted Fence Gate
+tile.architects_palette.twisted_door.name=Twisted Door
+tile.architects_palette.twisted_button.name=Twisted Button
+tile.architects_palette.twisted_pressure_plate.name=Twisted Pressure Plate
+tile.architects_palette.twisted_trapdoor.name=Twisted Trapdoor
+tile.architects_palette.twisted_slab.name=Twisted Slab
+tile.architects_palette.twisted_vertical_slab.name=Twisted Vertical Slab
+tile.architects_palette.twisted_stairs.name=Twisted Stairs
+tile.architects_palette.twisted_leaves.name=Twisted Leaves
+tile.architects_palette.twisted_sapling.name=Twisted Sapling
+tile.architects_palette.potted_twisted_sapling.name=Potted Twisted Sapling
+
+tile.architects_palette.basalt_tiles.name=Basalt Tiles
+tile.architects_palette.basalt_tile_wall.name=Basalt Tile Wall
+tile.architects_palette.basalt_tile_stairs.name=Basalt Tile Stairs
+tile.architects_palette.basalt_tile_slab.name=Basalt Tile Slab
+tile.architects_palette.basalt_tile_vertical_slab.name=Basalt Tile Vertical Slab
+tile.architects_palette.chiseled_basalt_tiles.name=Chiseled Basalt Tiles
+tile.architects_palette.cracked_basalt_tiles.name=Cracked Basalt Tiles
+
+tile.architects_palette.sunstone.name=Sunstone
+tile.architects_palette.moonstone.name=Moonstone
+
+tile.architects_palette.molten_nether_bricks.name=Molten Nether Bricks
+tile.architects_palette.coarse_snow.name=Coarse Snow
+
+tile.architects_palette.heavy_end_stone_bricks.name=Heavy End Stone Bricks
+tile.architects_palette.heavy_cracked_end_stone_bricks.name=Heavy Cracked End Stone Bricks
+
+tile.architects_palette.redstone_cage_lantern.name=Redstone Cage Lantern
+tile.architects_palette.glowstone_cage_lantern.name=Glowstone Cage Lantern
+tile.architects_palette.algal_cage_lantern.name=Algal Cage Lantern
+
+tile.architects_palette.grinning_acacia_totem.name=Grinning Acacia Totem
+tile.architects_palette.placid_acacia_totem.name=Placid Acacia Totem
+tile.architects_palette.shocked_acacia_totem.name=Shocked Acacia Totem
+tile.architects_palette.blank_acacia_totem.name=Blank Acacia Totem
+tile.architects_palette.acacia_totem_wing.name=Acacia Totem Wing
+
+tile.architects_palette.ender_pearl_block.name=Ender Pearl Block
+
+tile.architects_palette.entrails_slab.name=Entrails Slab
+tile.architects_palette.entrails_vertical_slab.name=Entrails Vertical Slab
+tile.architects_palette.entrails_stairs.name=Entrails Stairs

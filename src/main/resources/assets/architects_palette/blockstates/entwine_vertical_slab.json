@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "architects_palette:entwine_vertical_slab"
+    },
+    "facing=north": {
+      "model": "architects_palette:entwine_vertical_slab"
+    },
+    "facing=east": {
+      "model": "architects_palette:entwine_vertical_slab",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "architects_palette:entwine_vertical_slab",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "architects_palette:entwine_vertical_slab",
+      "y": 270
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "architects_palette:block/entwine_bars"
+    "layer0": "architects_palette:blocks/entwine_bars"
   }
 }

@@ -72,6 +72,7 @@ public class APRegistry {
     public static final Block ENTWINE_PILLAR = new BlockPillarBase("entwine_pillar", (BlockBase) ENTWINE_BLOCK);
     public static final Block ENTWINE_STAIRS = new BlockStairBase("entwine_stairs", ENTWINE_BLOCK.getDefaultState());
     public static final Block ENTWINE_VERTICAL_SLAB = new BlockVerticalSlab("entwine_vertical_slab", (BlockBase) ENTWINE_BLOCK);
+    public static final Block ENTWINE_BARS = new BlockBarBase("entwine_bars", (BlockBase) ENTWINE_BLOCK);
     public static final BlockSlab ENTWINE_DOUBLE = new BlockDoubleSlab("entwine_double", (BlockBase) ENTWINE_BLOCK, APRegistry.ENTWINE_SLAB);
     public static final BlockSlab ENTWINE_SLAB = new BlockHalfSlab("entwine_slab", (BlockBase) ENTWINE_BLOCK, APRegistry.ENTWINE_SLAB, APRegistry.ENTWINE_DOUBLE);
 
@@ -90,7 +91,6 @@ public class APRegistry {
     @SideOnly(Side.CLIENT)
     @SubscribeEvent
     public static void registerModels(ModelRegistryEvent event) {
-        // BLOCKS.forEach(block -> ModelLoader.setCustomModelResourceLocation(ItemBlock.getItemFromBlock(block), 0, new ModelResourceLocation(Objects.requireNonNull(block.getRegistryName()), "inventory")));
         ITEMS.forEach(item -> ModelLoader.setCustomModelResourceLocation(item, 0, new ModelResourceLocation(Objects.requireNonNull(item.getRegistryName()), "inventory")));
     }
 }

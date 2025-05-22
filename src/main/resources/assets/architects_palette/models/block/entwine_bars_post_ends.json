@@ -1,8 +1,8 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "architects_palette:block/entwine_bars",
-        "edge": "architects_palette:block/entwine_bars"
+        "particle": "architects_palette:blocks/entwine_bars",
+        "edge": "architects_palette:blocks/entwine_bars"
     },
     "elements": [
         {   "from": [ 7, 0.001, 7 ],
